@@ -1,9 +1,9 @@
 {
-  "name": "freelancer",
-  "title": "Freelancer",
-  "version": "1.0.6",
-  "homepage": "http://startbootstrap.com/template-overviews/freelancer",
-  "author": "Start Bootstrap",
+  "name": "shawnchambless.github.io",
+  "title": "shawnchambless.github.io",
+  "version": "1.0.0",
+  "homepage": "https://shawnchambless.github.io/",
+  "author": "Start Bootstrap, Shawn Chambless",
   "license": {
     "type": "MIT",
     "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
