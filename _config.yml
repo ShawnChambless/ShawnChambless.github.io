@@ -1,2 +1,17 @@
 gems:
   - jekyll-seo-tag
+  
+title:
+  - shawnchambless.com
+  
+description:
+  - Professional website for Shawn Chambless
+
+url:
+  - shawnchambless.com
+  
+social:
+  name: Shawn Chambless
+  links:
+    - https://linkedin.com/in/shawnchambless
+    - https://github.com/ShawnChambless
